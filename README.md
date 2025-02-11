@@ -2,7 +2,7 @@
 
 This repository contains my custom configuration for Fastfetch
 
-![Screenshot](screenshots/kitty-cyberconfig.png)
+![Screenshot](screenshot/my-fastfetch-config.png)
 
 ## Usage
 
