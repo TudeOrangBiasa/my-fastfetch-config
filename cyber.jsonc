@@ -19,7 +19,7 @@
         { "type": "custom", "format": "\u001b[94m└────────────────────────────────────────────────────────────┘" },
         { "type": "custom", "format": " \u001b[94m  \u001b[196m  \u001b[36m  \u001b[214m  \u001b[32m  \u001b[135m  \u001b[73m  \u001b[230m  \u001b[137m  \u001b[202m       \u001b[85m  \u001b[185m  \u001b[153m  \u001b[176m  \u001b[116m  \u001b[229m" },
         { "type": "custom", "format": "\u001b[94m┌────────────────────────────────────────────────────────────┐" },
-        { "type": "os", "key": "\uE0AA OS", "keyColor": "214" },
+        { "type": "os", "key": "\uF303 OS", "keyColor": "214" },
         { "type": "kernel", "key": "│ ├", "keyColor": "214" },
         { "type": "packages", "key": "│ ├󰏖", "keyColor": "214" },
         { "type": "shell", "key": "│ └", "keyColor": "214" },
