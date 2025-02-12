@@ -1,6 +1,6 @@
 # Fastfetch Configuration
 
-This repository contains my custom configuration for Fastfetch
+This Repository Contains My Simple Custom Configuration For FastFetch
 
 ![Screenshot](screenshots/my-fastfetch-config.png)
 
