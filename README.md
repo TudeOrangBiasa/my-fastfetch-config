@@ -2,7 +2,7 @@
 
 This Repository Contains My Simple Custom Configuration For FastFetch
 
-![Screenshot](fastfetchscreenshots.png)
+![Screenshot](fastfetchscreenshot.png)
 
 ## Usage
 
